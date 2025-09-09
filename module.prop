@@ -1,0 +1,7 @@
+id=systemless-hostname
+name=Systemless Hostname
+version=v0.0.1
+versionCode=001
+author=DethByte64
+description=Changes the devices hostname systemlessly
+updateJson=https://raw.githubusercontent.com/DethByte64/systemless-hostname/master/update.json
